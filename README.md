@@ -1,2 +1,6 @@
-# Tiffin-management-system
-I created project in python and mysql database, This project used for managing tiffin record, order food, billing system etc.
+# student-registration-system-crud-matrix
+
+install pymysql for mysql connection
+command: 
+
+pip install PyMySQL
